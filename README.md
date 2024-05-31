@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadiaAyKh
 - 👀 I’m interested in programming games and learning new coding and scripting languages
-- 🌱 I’m currently learning Pythong and JS Three
-- 💞️ I’m looking to collaborate on a small JS Three project
+- 🌱 I’m currently learning Pythong and Three-JS
+- 💞️ I’m looking to collaborate on a small Three-JS project
 - 📫 How to reach me: shadiakh36@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coffee
